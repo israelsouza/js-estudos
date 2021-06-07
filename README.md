@@ -1,4 +1,4 @@
 ## Anotações e exemplo de materiais estudados
 
 Já incluso:
-- Get e Set 
+- Get e Set (Objeto)
