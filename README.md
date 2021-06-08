@@ -2,3 +2,4 @@
 
 Já incluso:
 - Get e Set (Objeto)
+- Destructuring (Objeto)
