@@ -6,3 +6,4 @@ Já incluso:
 - Map, WeakMap (Estrutura de Dados)
 - Set
 - Objeto literal
+- Destructuring (Objeto como param de função + Array)
