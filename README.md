@@ -7,3 +7,4 @@ Já incluso:
 - Set
 - Objeto literal
 - Destructuring (Objeto como param de função + Array)
+- Requisição AJAX com response = 'json'
