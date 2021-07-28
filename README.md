@@ -8,3 +8,5 @@ Já incluso:
 - Objeto literal
 - Destructuring (Objeto como param de função + Array)
 - Requisição AJAX com response = 'json'
+- Array e alguns métodos
+- Promise
